@@ -1,2 +1,4 @@
-# bitpoint_btp
-Blockchain written in Rust (ptbr: Blockchain escrita em Rust)
+# Bitpoint (BTP)
+1. A gamified blockchain written in Rust
+1. (ptbr) Uma blockchain gamificada escrita em Rust
+2. 
