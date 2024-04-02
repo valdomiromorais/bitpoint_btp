@@ -1,4 +1,4 @@
 # Bitpoint (BTP)
-1. A gamified blockchain written in C++\Rust
-1. (ptbr) Uma blockchain gamificada escrita em C++\Rust
-2. 
+The **Bitpoint** project is the proposal to create a cryptocurrency based on *blockchain* and Proof of Work along the lines of Bitcoin. The Bitpoint *blockchain* has its native *token* called **bitpoint**. **bitpoint** will be the digital certification of the issuance of printed notes representing work and/or services provided within the gamified environment up to a maximum limit of 100,000 **bitpoint** units. Such representative notes may have shared ownership up to a scale of 0.00001. Thus, fractions of *token* ownership can be used to obtain objects/services within the gamified environment.
+
+(ptbr) O projeto **Bitpoint** é a proposta de criação de uma criptomoeda baseada em *blockchain* e Prova de Trabalho aos moldes do Bitcoin. O *blockchain* Bitpoint tem seu *token* nativo chamado **bitpoint**. O **bitpoint** será a certificação digital da emissão de notas impressas representativas de trabalho e/ou serviço prestado dentro do ambiente gamificado até um limite máximo 100.000 unidades de **bitpoint**. Tais notas representativas poderão ter propriedade partilhada até a escala de 0,00001. Assim, frações da propriedade do *token* podem ser usadas para para obtenção de bens/serviços dentro do ambiente gamificado. 
